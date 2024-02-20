@@ -1,0 +1,3 @@
+fastqs,sample,library_type
+/opt/ossfs/macaque_retina/RNA/A-OS-C,A-OS-C,Gene Expression
+/opt/ossfs/macaque_retina/ATAC/A-OS-C,A-OS-C,Chromatin Accessibility
